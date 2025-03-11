@@ -1,7 +1,7 @@
 # Natural Language Processing with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not.
 
-I'm bringing over the Kaggle competitions I'm participating in! 🚀 There, I have several exciting datasets and notebooks, featuring unconventional challenges—like my sentiment analysis of Rick and Morty scripts (<iframe src="https://www.kaggle.com/embed/isabelgonalves/an-lise-de-sentimentos?kernelSessionId=225967123" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Análise de Sentimentos"></iframe>), which I think you'll enjoy!
+I'm bringing over the Kaggle competitions I'm participating in! 🚀 There, I have several exciting datasets and notebooks, featuring unconventional challenges—like my sentiment analysis of Rick and Morty scripts (https://www.kaggle.com/code/isabelgonalves/an-lise-de-sentimentos?kernelSessionId=225967123), which I think you'll enjoy!
 
 Kaggle has been an amazing platform for developing a more creative and critical approach to data analysis. Come find me there too! 😊
 
